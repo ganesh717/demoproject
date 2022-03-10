@@ -2686,3 +2686,1222 @@ Script Stack (0 frames):
 [2022.03.10-18.30.38:208][883]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.10-18.30.38:208][883]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
 [2022.03.10-18.30.38:208][883]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
+[2022.03.10-18.32.49:331][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/actor/particalsystem" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/actor/particalsystem.uasset" SILENT=true
+[2022.03.10-18.32.49:340][460]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/particalsystem6E2C538843AA840BC1B25690AE98E217.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/actor/particalsystem.uasset'
+[2022.03.10-18.32.49:353][460]AssetCheck: New page: Asset Save: particalsystem
+[2022.03.10-18.32.49:353][460]LogContentValidation: Display: Validating Blueprint /Game/actor/particalsystem.particalsystem
+[2022.03.10-18.34.08:059][665]BlueprintLog: New page: Compile particalsystem
+[2022.03.10-18.34.08:328][665]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2022.03.10-18.34.08:698][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/actor/particalsystem" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/actor/particalsystem.uasset" SILENT=true
+[2022.03.10-18.34.08:707][699]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/particalsystemAF029685474300C227C6F1A3DB14A94A.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/actor/particalsystem.uasset'
+[2022.03.10-18.34.08:721][699]AssetCheck: New page: Asset Save: particalsystem
+[2022.03.10-18.34.08:721][699]LogContentValidation: Display: Validating Blueprint /Game/actor/particalsystem.particalsystem
+[2022.03.10-18.34.11:030][932]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.03.10-18.34.11:262][932]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps898822874868E205F4A376B6DF551155.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps.umap'
+[2022.03.10-18.34.11:285][932]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps_BuiltData9E1680214F24627DD51722B741DD6B3C.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps_BuiltData.uasset'
+[2022.03.10-18.34.11:303][932]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.10-18.34.11:303][932]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
+[2022.03.10-18.34.11:303][932]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
+[2022.03.10-18.34.11:993][ 10]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.34.12:010][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.34.12:010][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.34.12:010][ 10]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:34:12 pm)
+[2022.03.10-18.34.12:011][ 10]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.34.12:013][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002131s)
+[2022.03.10-18.34.12:014][ 10]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.34.12:014][ 10]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2022.03.10-18.34.12:014][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003292s)
+[2022.03.10-18.34.12:053][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.03.10-18.34.12:054][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.34.12:054][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.34.12:054][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.34.12:054][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.34.12:054][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.34.12:054][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.34.12:054][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.34.12:054][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.34.12:054][ 10]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.34.12:054][ 10]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.34.12:058][ 10]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.34.12:058][ 10]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.34.12:058][ 10]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.34.12:058][ 10]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.34.12:058][ 10]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.34.12:058][ 10]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.34.12:058][ 10]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.34.12:058][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.34.12:058][ 10]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.34.12:076][ 10]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.34.12:078][ 10]LogInit: FAudioDevice initialized.
+[2022.03.10-18.34.12:087][ 10]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.34.12:088][ 10]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 0) at 2022.03.10-18.34.12
+[2022.03.10-18.34.12:089][ 10]LogWorld: Bringing up level for play took: 0.000569
+[2022.03.10-18.34.12:089][ 10]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.03.10-18.34.12:090][ 10]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps 0.203
+[2022.03.10-18.34.12:092][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.34.14:970][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.34.14:970][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.34.14:970][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.34.14:977][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.34.14:977][264]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.34.14:978][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.34.14:978][264]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.34.14:978][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.34.14:989][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.34.14:989][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.34.14:995][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.34.15:037][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.34.15:040][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.34.15:047][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.03.10-18.34.15:083][266]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.03.10-18.34.56:931][116]LogEditorTransaction: Undo Edit Left
+[2022.03.10-18.35.43:218][501]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.10-18.36.07:180][196]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.36.07:227][196]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.03.10-18.36.07:843][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.36.07:856][264]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi260245954AE11E6A2B5F1D8E7785807D.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.36.07:869][264]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.36.07:869][264]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.36.17:408][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.36.17:421][330]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi2A054B03494E6DF3E1E8BF9341C15FA4.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.36.17:437][330]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.36.17:437][330]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.36.19:427][547]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.36.19:445][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.36.19:445][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.36.19:445][547]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:36:19 pm)
+[2022.03.10-18.36.19:445][547]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.36.19:448][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002206s)
+[2022.03.10-18.36.19:448][547]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.36.19:449][547]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2022.03.10-18.36.19:449][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003359s)
+[2022.03.10-18.36.19:490][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.03.10-18.36.19:491][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.36.19:491][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.36.19:491][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.36.19:491][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.36.19:491][547]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.36.19:491][547]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.36.19:491][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.36.19:491][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.36.19:491][547]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.36.19:491][547]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.36.19:496][547]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.36.19:496][547]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.36.19:496][547]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.36.19:496][547]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.36.19:496][547]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.36.19:496][547]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.36.19:496][547]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.36.19:496][547]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.36.19:496][547]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.36.19:511][547]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.36.19:513][547]LogInit: FAudioDevice initialized.
+[2022.03.10-18.36.19:520][547]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.36.19:521][547]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 0) at 2022.03.10-18.36.19
+[2022.03.10-18.36.19:521][547]LogWorld: Bringing up level for play took: 0.000587
+[2022.03.10-18.36.19:521][547]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.03.10-18.36.19:523][547]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps -0.364
+[2022.03.10-18.36.19:525][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.36.28:446][ 32]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.36.28:446][ 32]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.36.28:446][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.36.28:460][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.36.28:460][ 32]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.36.28:461][ 32]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.36.28:462][ 32]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.36.28:462][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.36.28:480][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.36.28:480][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.36.28:488][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.36.28:529][ 32]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.36.28:531][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.36.28:548][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.03.10-18.36.28:566][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.03.10-18.36.31:510][354]LogEditorViewport: Clicking on Actor (LMB): particalsystem_C (particalsystem)
+[2022.03.10-18.36.35:268][802]Cmd: DELETE
+[2022.03.10-18.36.35:268][802]Cmd: ACTOR DELETE
+[2022.03.10-18.36.35:271][802]LogEditorActor: Deleted Actor: particalsystem_C
+[2022.03.10-18.36.35:314][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.03.10-18.36.35:317][802]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2022.03.10-18.36.36:605][956]LogEditorViewport: Clicking on Actor (LMB): particalsystem_C (particalsystem2)
+[2022.03.10-18.36.39:781][316]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.36.39:799][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.36.39:799][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.36.39:799][316]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:36:39 pm)
+[2022.03.10-18.36.39:799][316]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.36.39:801][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002026s)
+[2022.03.10-18.36.39:802][316]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.36.39:802][316]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2022.03.10-18.36.39:802][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003028s)
+[2022.03.10-18.36.39:842][316]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.03.10-18.36.39:844][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.36.39:844][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.36.39:844][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.36.39:844][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.36.39:844][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.36.39:844][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.36.39:844][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.36.39:844][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.36.39:845][316]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.36.39:845][316]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.36.39:848][316]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.36.39:848][316]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.36.39:848][316]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.36.39:848][316]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.36.39:848][316]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.36.39:848][316]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.36.39:848][316]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.36.39:848][316]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.36.39:848][316]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.36.39:863][316]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.36.39:865][316]LogInit: FAudioDevice initialized.
+[2022.03.10-18.36.39:875][316]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.36.39:876][316]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 0) at 2022.03.10-18.36.39
+[2022.03.10-18.36.39:876][316]LogWorld: Bringing up level for play took: 0.000452
+[2022.03.10-18.36.39:876][316]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.03.10-18.36.39:878][316]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps -0.01
+[2022.03.10-18.36.39:882][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.36.55:252][ 89]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.36.55:252][ 89]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.36.55:252][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.36.55:274][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.36.55:274][ 89]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.36.55:275][ 89]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.36.55:275][ 89]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.36.55:276][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.36.55:284][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.36.55:285][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.36.55:293][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.36.55:339][ 89]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.36.55:342][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.36.55:358][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.03.10-18.36.55:373][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.03.10-18.37.57:671][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/actor/particalsystem" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/actor/particalsystem.uasset" SILENT=true
+[2022.03.10-18.37.57:681][  5]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/particalsystemE1A74EDD44C47741817B2DA6D7230D47.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/actor/particalsystem.uasset'
+[2022.03.10-18.37.57:694][  5]AssetCheck: New page: Asset Save: particalsystem
+[2022.03.10-18.37.57:694][  5]LogContentValidation: Display: Validating Blueprint /Game/actor/particalsystem.particalsystem
+[2022.03.10-18.41.16:750][842]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.10-18.41.19:199][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.41.19:212][984]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi04A85C784B4219101BD5EAA86B43A70F.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.41.19:225][984]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.41.19:225][984]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.41.20:712][ 72]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.41.20:763][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.03.10-18.41.21:682][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.41.21:696][123]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi44C03C814DAB4499F84E229E551EB1A7.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.41.21:709][123]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.41.21:709][123]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.41.24:829][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.03.10-18.41.25:062][305]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomapsFD5414DD46D686D9ED17E8B2FCBB17E5.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps.umap'
+[2022.03.10-18.41.25:089][305]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps_BuiltData374C99A64383C3BA9C0A5FA21129C59B.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps_BuiltData.uasset'
+[2022.03.10-18.41.25:105][305]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.10-18.41.25:105][305]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
+[2022.03.10-18.41.25:105][305]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
+[2022.03.10-18.41.27:075][420]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.41.27:091][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.41.27:092][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.41.27:092][420]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:41:27 pm)
+[2022.03.10-18.41.27:092][420]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.41.27:094][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002182s)
+[2022.03.10-18.41.27:095][420]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.41.27:095][420]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2022.03.10-18.41.27:095][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003362s)
+[2022.03.10-18.41.27:141][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.03.10-18.41.27:142][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.41.27:142][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.41.27:142][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.41.27:142][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.41.27:142][420]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.41.27:142][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.41.27:142][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.41.27:142][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.41.27:142][420]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.41.27:142][420]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.41.27:146][420]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.41.27:146][420]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.41.27:146][420]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.41.27:146][420]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.41.27:146][420]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.41.27:146][420]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.41.27:146][420]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.41.27:146][420]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.41.27:146][420]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.41.27:162][420]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.41.27:164][420]LogInit: FAudioDevice initialized.
+[2022.03.10-18.41.27:171][420]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.41.27:173][420]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.41.27
+[2022.03.10-18.41.27:173][420]LogWorld: Bringing up level for play took: 0.000594
+[2022.03.10-18.41.27:173][420]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.03.10-18.41.27:175][420]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps -0.712
+[2022.03.10-18.41.27:177][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.41.59:908][419]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.41.59:908][419]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.41.59:909][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.41.59:940][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.41.59:940][419]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.41.59:941][419]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.41.59:941][419]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.41.59:942][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.41.59:957][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.41.59:957][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.41.59:968][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.42.00:024][419]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.42.00:027][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.42.00:050][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.03.10-18.42.00:066][420]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.03.10-18.42.02:586][570]LogEditorViewport: Clicking on Actor (LMB): particalsystem_C (particalsystem2)
+[2022.03.10-18.42.23:510][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.03.10-18.42.23:744][763]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps747CC2CB450A2BF1441DFC84E5A23908.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps.umap'
+[2022.03.10-18.42.23:766][763]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps_BuiltDataF09D05624E8AF43989F6919CFB7A4138.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps_BuiltData.uasset'
+[2022.03.10-18.42.23:785][763]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.10-18.42.23:785][763]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
+[2022.03.10-18.42.23:785][763]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
+[2022.03.10-18.43.22:580][146]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.10-18.43.36:134][930]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.43.36:137][930]LogBlueprint: Error: [Compiler GameUI] This blueprint (self) is not a particalsystem_C, therefore ' Target ' must have a connection.
+[2022.03.10-18.43.36:183][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.03.10-18.43.36:590][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.43.36:602][949]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi4CE3C67941F24B719D87D48EB95A6FB1.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.43.36:617][949]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.43.36:617][949]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.43.40:400][168]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.43.40:450][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.03.10-18.43.40:920][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.43.40:933][194]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi2D7D1C3D44CEC7162EF428BAB6686A25.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.43.40:949][194]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.43.40:949][194]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.43.44:666][415]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.43.44:683][415]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.43.44:683][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.43.44:684][415]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:43:44 pm)
+[2022.03.10-18.43.44:684][415]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.43.44:686][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002155s)
+[2022.03.10-18.43.44:687][415]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.43.44:687][415]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2022.03.10-18.43.44:687][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003341s)
+[2022.03.10-18.43.44:732][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.03.10-18.43.44:733][415]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.43.44:733][415]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.43.44:733][415]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.43.44:733][415]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.43.44:733][415]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.43.44:733][415]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.43.44:733][415]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.43.44:733][415]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.43.44:734][415]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.43.44:734][415]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.43.44:737][415]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.43.44:737][415]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.43.44:737][415]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.43.44:737][415]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.43.44:737][415]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.43.44:737][415]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.43.44:737][415]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.43.44:737][415]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.43.44:737][415]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.43.44:753][415]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.43.44:754][415]LogInit: FAudioDevice initialized.
+[2022.03.10-18.43.44:768][415]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.43.44:769][415]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.43.44
+[2022.03.10-18.43.44:769][415]LogWorld: Bringing up level for play took: 0.000723
+[2022.03.10-18.43.44:770][415]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.03.10-18.43.44:771][415]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps 0.884
+[2022.03.10-18.43.44:776][415]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.44.15:690][515]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.44.15:690][515]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.44.15:690][515]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.44.15:724][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.44.15:724][515]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.44.15:725][515]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.44.15:726][515]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.44.15:726][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.44.15:737][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.44.15:737][515]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.44.15:747][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.44.15:797][515]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.44.15:801][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.44.15:824][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.03.10-18.44.15:842][516]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.03.10-18.44.43:823][164]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.44.43:868][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.03.10-18.44.44:241][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.44.44:252][184]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi03CD410A487CC0D3EFAFA689AC96A9EE.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.44.44:265][184]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.44.44:265][184]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.45.29:231][811]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.45.29:234][811]LogBlueprint: Warning: [Compiler GameUI] Could not find a variable named "ParticleHeight" in 'GameUI_C'.
+Make sure 'GameUI_C' has been compiled for  Get ParticleHeight
+[2022.03.10-18.45.29:235][811]LogBlueprint: Error: [Compiler GameUI] The property associated with  Particle Height  could not be found in '/Game/Widget/GameUi.GameUI_C'
+[2022.03.10-18.45.29:281][811]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.03.10-18.45.42:381][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.45.42:395][578]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi1DF575394AF9EE0D7C28B59C32986F66.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.45.42:408][578]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.45.42:408][578]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.46.05:219][919]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.10-18.46.22:008][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.46.22:023][887]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUiCADC4EAF4A251E09F29CEF85539DB50A.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.46.22:036][887]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.46.22:036][887]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.46.28:204][253]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.46.28:206][253]LogBlueprint: Warning: [Compiler GameUI] Get Actor Of Class  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.03.10-18.46.28:207][253]LogBlueprint: Error: [Compiler GameUI] This blueprint (self) is not a particalsystem_C, therefore ' Target ' must have a connection.
+[2022.03.10-18.46.28:208][253]LogBlueprint: Error: [Compiler GameUI] Variable node  Get ParticleHeight  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.03.10-18.46.28:255][253]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.03.10-18.47.06:095][417]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.47.06:148][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.03.10-18.47.07:648][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.47.07:664][504]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi2F3B1DD5414574CF7D679480FC3B48E0.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.47.07:680][504]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.47.07:680][504]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.47.12:762][801]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.03.10-18.47.12:993][801]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps2ECF0ED645330542D38DE3A254579455.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps.umap'
+[2022.03.10-18.47.13:017][801]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps_BuiltData4657841B46BB7DEC16D3BAAC83915288.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps_BuiltData.uasset'
+[2022.03.10-18.47.13:035][801]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.10-18.47.13:035][801]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
+[2022.03.10-18.47.13:035][801]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
+[2022.03.10-18.47.14:109][862]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.47.14:127][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.47.14:127][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.47.14:127][862]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:47:14 pm)
+[2022.03.10-18.47.14:127][862]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.47.14:129][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002111s)
+[2022.03.10-18.47.14:130][862]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.47.14:130][862]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2022.03.10-18.47.14:130][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003103s)
+[2022.03.10-18.47.14:171][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.03.10-18.47.14:172][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.47.14:172][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.47.14:172][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.47.14:172][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.47.14:172][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.47.14:172][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.47.14:172][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.47.14:172][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.47.14:172][862]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.47.14:172][862]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.47.14:175][862]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.47.14:175][862]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.47.14:175][862]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.47.14:175][862]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.47.14:175][862]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.47.14:175][862]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.47.14:175][862]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.47.14:175][862]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.47.14:175][862]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.47.14:191][862]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.47.14:193][862]LogInit: FAudioDevice initialized.
+[2022.03.10-18.47.14:199][862]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.47.14:200][862]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.47.14
+[2022.03.10-18.47.14:200][862]LogWorld: Bringing up level for play took: 0.000450
+[2022.03.10-18.47.14:200][862]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.03.10-18.47.14:202][862]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps 0.314
+[2022.03.10-18.47.14:203][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.47.34:183][684]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.47.34:183][684]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.47.34:183][684]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.47.34:209][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.47.34:209][684]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.47.34:210][684]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.47.34:210][684]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.47.34:211][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.47.34:224][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.47.34:224][684]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.47.34:233][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.47.34:278][684]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.47.34:281][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.47.34:298][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.03.10-18.47.34:314][685]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.03.10-18.47.41:904][135]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.47.41:919][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.47.41:919][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.47.41:919][135]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:47:41 pm)
+[2022.03.10-18.47.41:919][135]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.47.41:921][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002099s)
+[2022.03.10-18.47.41:922][135]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.47.41:922][135]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2022.03.10-18.47.41:922][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003179s)
+[2022.03.10-18.47.41:963][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.03.10-18.47.41:965][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.47.41:965][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.47.41:965][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.47.41:965][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.47.41:965][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.47.41:965][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.47.41:965][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.47.41:965][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.47.41:965][135]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.47.41:965][135]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.47.41:968][135]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.47.41:968][135]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.47.41:968][135]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.47.41:968][135]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.47.41:968][135]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.47.41:968][135]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.47.41:968][135]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.47.41:968][135]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.47.41:968][135]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.47.41:984][135]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.47.41:986][135]LogInit: FAudioDevice initialized.
+[2022.03.10-18.47.41:992][135]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.47.41:993][135]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.47.41
+[2022.03.10-18.47.41:993][135]LogWorld: Bringing up level for play took: 0.000423
+[2022.03.10-18.47.41:994][135]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.03.10-18.47.41:996][135]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps 0.108
+[2022.03.10-18.47.41:997][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.47.52:108][667]LogRenderer: Reallocating scene render targets to support 1732x916 Format 10 NumSamples 1 (Frame:408).
+[2022.03.10-18.47.52:171][668]LogRenderer: Reallocating scene render targets to support 1732x940 Format 10 NumSamples 1 (Frame:410).
+[2022.03.10-18.47.52:237][669]LogRenderer: Reallocating scene render targets to support 1732x948 Format 10 NumSamples 1 (Frame:412).
+[2022.03.10-18.47.52:300][670]LogRenderer: Reallocating scene render targets to support 1732x956 Format 10 NumSamples 1 (Frame:414).
+[2022.03.10-18.47.52:362][671]LogRenderer: Reallocating scene render targets to support 1732x964 Format 10 NumSamples 1 (Frame:416).
+[2022.03.10-18.47.52:546][676]LogRenderer: Reallocating scene render targets to support 1732x968 Format 10 NumSamples 1 (Frame:420).
+[2022.03.10-18.48.07:339][103]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.48.07:339][103]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.48.07:339][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.48.07:369][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.48.07:369][103]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.48.07:370][103]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.48.07:370][103]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.48.07:370][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.48.07:384][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.48.07:384][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.48.07:394][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.48.07:441][103]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.48.07:445][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.48.07:463][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.03.10-18.48.07:479][104]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.03.10-18.48.48:791][496]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.48.48:839][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.03.10-18.48.49:313][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.48.49:328][521]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi2F88CCEF486F5A12681D549D77F70D56.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.48.49:342][521]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.48.49:343][521]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.48.51:142][617]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.48.51:162][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.48.51:162][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.48.51:162][617]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:48:51 pm)
+[2022.03.10-18.48.51:162][617]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.48.51:164][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002004s)
+[2022.03.10-18.48.51:165][617]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.48.51:165][617]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2022.03.10-18.48.51:165][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003077s)
+[2022.03.10-18.48.51:206][617]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.03.10-18.48.51:207][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.48.51:207][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.48.51:207][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.48.51:207][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.48.51:207][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.48.51:207][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.48.51:207][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.48.51:207][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.48.51:207][617]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.48.51:207][617]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.48.51:210][617]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.48.51:210][617]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.48.51:210][617]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.48.51:210][617]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.48.51:210][617]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.48.51:210][617]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.48.51:210][617]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.48.51:210][617]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.48.51:210][617]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.48.51:224][617]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.48.51:226][617]LogInit: FAudioDevice initialized.
+[2022.03.10-18.48.51:231][617]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.48.51:232][617]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.48.51
+[2022.03.10-18.48.51:233][617]LogWorld: Bringing up level for play took: 0.000706
+[2022.03.10-18.48.51:233][617]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.03.10-18.48.51:235][617]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps -0.653
+[2022.03.10-18.48.51:236][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.49.10:739][409]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.49.10:739][409]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.49.10:740][409]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.49.10:765][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.49.10:765][409]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.49.10:766][409]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.49.10:766][409]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.49.10:766][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.49.10:776][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.49.10:776][409]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.49.10:785][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.49.10:835][409]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.49.10:838][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.49.10:854][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.03.10-18.49.10:872][410]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.03.10-18.49.11:703][458]LogEditorViewport: Clicking on Actor (LMB): particalsystem_C (particalsystem2)
+[2022.03.10-18.49.14:173][601]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.49.14:190][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.49.14:190][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.49.14:190][601]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:49:14 pm)
+[2022.03.10-18.49.14:190][601]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.49.14:192][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002033s)
+[2022.03.10-18.49.14:193][601]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.49.14:193][601]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2022.03.10-18.49.14:193][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003142s)
+[2022.03.10-18.49.14:238][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.03.10-18.49.14:241][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.49.14:241][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.49.14:241][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.49.14:241][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.49.14:241][601]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.49.14:241][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.49.14:241][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.49.14:241][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.49.14:241][601]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.49.14:241][601]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.49.14:244][601]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.49.14:244][601]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.49.14:244][601]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.49.14:244][601]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.49.14:244][601]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.49.14:244][601]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.49.14:244][601]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.49.14:244][601]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.49.14:244][601]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.49.14:259][601]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.49.14:261][601]LogInit: FAudioDevice initialized.
+[2022.03.10-18.49.14:273][601]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.49.14:274][601]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.49.14
+[2022.03.10-18.49.14:274][601]LogWorld: Bringing up level for play took: 0.000428
+[2022.03.10-18.49.14:274][601]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.03.10-18.49.14:276][601]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps 0.388
+[2022.03.10-18.49.14:281][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.49.53:739][763]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.49.53:739][763]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.49.53:739][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.49.53:776][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.49.53:776][763]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.49.53:777][763]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.49.53:777][763]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.49.53:778][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.49.53:785][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.49.53:785][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.49.53:796][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.49.53:847][763]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.49.53:850][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.49.53:871][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.03.10-18.49.53:888][764]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.03.10-18.50.06:771][502]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.10-18.50.16:041][ 35]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.50.16:045][ 35]LogBlueprint: Error: [Compiler GameUI] This blueprint (self) is not a partical_blueprint_C, therefore ' Target ' must have a connection.
+[2022.03.10-18.50.16:045][ 35]LogBlueprint: Error: [Compiler GameUI] This blueprint (self) is not a partical_blueprint_C, therefore ' Target ' must have a connection.
+[2022.03.10-18.50.16:045][ 35]LogBlueprint: Error: [Compiler GameUI] Variable node  Set acc  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.03.10-18.50.16:045][ 35]LogBlueprint: Error: [Compiler GameUI] Variable node  Set vel  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.03.10-18.50.16:090][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.03.10-18.50.16:645][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.50.16:660][ 63]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUiBE1B0F204935056F394B279A8FB5AD07.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.50.16:675][ 63]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.50.16:675][ 63]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.51.04:445][853]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.10-18.51.25:459][ 90]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.51.25:508][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.03.10-18.51.26:398][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.51.26:412][140]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi75D745F64FC9AAC1511A1A86FF8443A6.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.51.26:426][140]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.51.26:426][140]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.51.27:978][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.03.10-18.51.28:211][228]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps361BF5E444C3A8F15279008D43433B6E.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps.umap'
+[2022.03.10-18.51.28:235][228]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps_BuiltData5F191B0647608902FD205692ABCF7C10.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps_BuiltData.uasset'
+[2022.03.10-18.51.28:252][228]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.10-18.51.28:252][228]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
+[2022.03.10-18.51.28:252][228]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
+[2022.03.10-18.51.29:395][292]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.51.29:411][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.51.29:411][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.51.29:411][292]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:51:29 pm)
+[2022.03.10-18.51.29:411][292]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.51.29:413][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002065s)
+[2022.03.10-18.51.29:414][292]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.51.29:414][292]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2022.03.10-18.51.29:414][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003186s)
+[2022.03.10-18.51.29:458][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.03.10-18.51.29:459][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.51.29:459][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.51.29:459][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.51.29:459][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.51.29:459][292]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.51.29:459][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.51.29:459][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.51.29:459][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.51.29:459][292]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.51.29:459][292]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.51.29:462][292]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.51.29:462][292]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.51.29:462][292]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.51.29:462][292]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.51.29:462][292]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.51.29:462][292]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.51.29:462][292]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.51.29:462][292]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.51.29:462][292]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.51.29:478][292]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.51.29:480][292]LogInit: FAudioDevice initialized.
+[2022.03.10-18.51.29:489][292]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.51.29:490][292]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.51.29
+[2022.03.10-18.51.29:490][292]LogWorld: Bringing up level for play took: 0.000422
+[2022.03.10-18.51.29:490][292]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.03.10-18.51.29:492][292]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps -0.395
+[2022.03.10-18.51.29:493][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.51.35:984][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.51.35:984][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.51.35:984][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.51.35:996][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.51.35:996][639]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.51.35:997][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.51.35:997][639]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.51.35:998][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.51.36:011][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.51.36:012][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.51.36:018][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.51.36:060][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.51.36:063][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.51.36:072][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.03.10-18.51.36:089][640]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.03.10-18.52.05:660][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.52.05:672][345]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi7A2083B74AC0D882B3F4D29EEB2C5DD7.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.52.05:686][345]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.52.05:686][345]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.53.03:218][722]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.10-18.53.24:456][969]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.53.24:459][969]LogBlueprint: Warning: [Compiler GameUI] Get Actor Of Class  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.03.10-18.53.24:460][969]LogBlueprint: Error: [Compiler GameUI] This blueprint (self) is not a particalsystem_C, therefore ' Target ' must have a connection.
+[2022.03.10-18.53.24:460][969]LogBlueprint: Error: [Compiler GameUI] Variable node  Get ParticleHeight  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.03.10-18.53.24:504][969]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.03.10-18.54.05:665][386]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.54.05:715][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.03.10-18.54.06:969][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.54.06:983][456]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi66E0194C4E489E83CF2F2E83A44D2B29.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.54.06:998][456]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.54.06:999][456]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.54.09:447][590]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.03.10-18.54.09:681][590]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomapsCC8C1D8F4718B4F876B2CAA494FF144D.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps.umap'
+[2022.03.10-18.54.09:705][590]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps_BuiltData9F1EED3B41800247D3A859B387AD7617.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps_BuiltData.uasset'
+[2022.03.10-18.54.09:722][590]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.10-18.54.09:722][590]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
+[2022.03.10-18.54.09:722][590]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
+[2022.03.10-18.54.11:498][694]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.54.11:515][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.54.11:515][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.54.11:515][694]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:54:11 pm)
+[2022.03.10-18.54.11:516][694]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.54.11:518][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002048s)
+[2022.03.10-18.54.11:519][694]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.54.11:519][694]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2022.03.10-18.54.11:519][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003343s)
+[2022.03.10-18.54.11:564][694]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.03.10-18.54.11:565][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.54.11:565][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.54.11:565][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.54.11:565][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.54.11:565][694]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.54.11:565][694]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.54.11:565][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.54.11:565][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.54.11:565][694]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.54.11:565][694]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.54.11:568][694]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.54.11:568][694]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.54.11:568][694]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.54.11:568][694]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.54.11:568][694]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.54.11:568][694]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.54.11:569][694]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.54.11:569][694]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.54.11:569][694]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.54.11:584][694]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.54.11:586][694]LogInit: FAudioDevice initialized.
+[2022.03.10-18.54.11:598][694]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.54.11:599][694]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.54.11
+[2022.03.10-18.54.11:599][694]LogWorld: Bringing up level for play took: 0.000451
+[2022.03.10-18.54.11:599][694]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.03.10-18.54.11:601][694]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps -0.287
+[2022.03.10-18.54.11:602][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.54.39:526][713]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.54.39:526][713]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.54.39:526][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.54.39:559][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.54.39:559][713]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.54.39:560][713]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.54.39:560][713]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.54.39:560][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.54.39:571][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.54.39:572][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.54.39:582][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.54.39:633][713]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.54.39:636][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.54.39:657][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.03.10-18.54.39:673][714]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.03.10-18.54.51:123][393]LogEditorTransaction: Undo Delete current selection
+[2022.03.10-18.55.05:033][181]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.55.05:036][181]LogBlueprint: Error: [Compiler GameUI] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.03.10-18.55.05:036][181]LogBlueprint: Error: [Compiler GameUI] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.03.10-18.55.05:085][181]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.03.10-18.55.05:656][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.55.05:669][210]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi178F6DA34BE178C3D156E7990782A474.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.55.05:683][210]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.55.05:683][210]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.55.25:989][386]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.55.26:037][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2022.03.10-18.55.26:866][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.55.26:879][432]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUiAB0FA8E1457B064A200EFD9C9E6026F3.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.55.26:893][432]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.55.26:893][432]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.55.28:033][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.03.10-18.55.28:272][494]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomapsD80ADDB748918A33452A8496CFA9A3DD.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps.umap'
+[2022.03.10-18.55.28:294][494]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps_BuiltDataEB2B01B3438DC4C3F5BE5497B2100F08.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps_BuiltData.uasset'
+[2022.03.10-18.55.28:312][494]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.10-18.55.28:312][494]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
+[2022.03.10-18.55.28:312][494]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
+[2022.03.10-18.55.29:130][541]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.55.29:147][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.55.29:147][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.55.29:147][541]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:55:29 pm)
+[2022.03.10-18.55.29:147][541]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.55.29:149][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002137s)
+[2022.03.10-18.55.29:150][541]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.55.29:150][541]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2022.03.10-18.55.29:150][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003236s)
+[2022.03.10-18.55.29:194][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.03.10-18.55.29:195][541]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.55.29:195][541]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.55.29:195][541]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.55.29:195][541]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.55.29:195][541]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.55.29:195][541]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.55.29:195][541]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.55.29:195][541]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.55.29:195][541]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.55.29:195][541]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.55.29:198][541]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.55.29:198][541]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.55.29:198][541]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.55.29:198][541]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.55.29:198][541]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.55.29:198][541]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.55.29:198][541]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.55.29:198][541]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.55.29:198][541]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.55.29:213][541]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.55.29:215][541]LogInit: FAudioDevice initialized.
+[2022.03.10-18.55.29:224][541]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.55.29:225][541]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.55.29
+[2022.03.10-18.55.29:225][541]LogWorld: Bringing up level for play took: 0.000467
+[2022.03.10-18.55.29:225][541]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.03.10-18.55.29:227][541]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps -0.661
+[2022.03.10-18.55.29:228][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.55.44:648][254]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.55.44:648][254]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.55.44:649][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.55.44:671][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.55.44:671][254]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.55.44:673][254]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.55.44:673][254]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.55.44:673][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.55.44:684][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.55.44:684][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.55.44:692][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.55.44:736][254]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.55.44:740][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.55.44:756][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.03.10-18.55.44:773][255]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.03.10-18.56.09:773][726]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.56.09:824][726]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.03.10-18.56.10:411][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.56.10:424][758]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi9AE2A4E146B763099F42A5B5A868244F.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.56.10:441][758]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.56.10:441][758]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.57.10:028][274]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.57.10:079][274]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.03.10-18.57.10:899][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.57.10:913][320]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi480590EC4C6E40E2827A4ABA17A3CA7E.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.57.10:927][320]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.57.10:928][320]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.57.13:161][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.03.10-18.57.13:391][439]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps8B6769604382B87CEFB39EA756623D3E.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps.umap'
+[2022.03.10-18.57.13:414][439]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps_BuiltData5CA602BB4F74770DADCECDA052BEBE4A.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps_BuiltData.uasset'
+[2022.03.10-18.57.13:432][439]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.10-18.57.13:432][439]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
+[2022.03.10-18.57.13:432][439]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
+[2022.03.10-18.57.14:011][474]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.57.14:028][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.57.14:028][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.57.14:028][474]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:57:14 pm)
+[2022.03.10-18.57.14:028][474]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.57.14:030][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002036s)
+[2022.03.10-18.57.14:031][474]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.57.14:031][474]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2022.03.10-18.57.14:031][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003057s)
+[2022.03.10-18.57.14:077][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.03.10-18.57.14:077][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.57.14:077][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.57.14:077][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.57.14:077][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.57.14:077][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.57.14:077][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.57.14:077][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.57.14:077][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.57.14:078][474]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.57.14:078][474]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.57.14:082][474]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.57.14:082][474]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.57.14:082][474]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.57.14:082][474]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.57.14:082][474]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.57.14:082][474]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.57.14:082][474]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.57.14:082][474]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.57.14:082][474]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.57.14:097][474]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.57.14:099][474]LogInit: FAudioDevice initialized.
+[2022.03.10-18.57.14:106][474]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.57.14:107][474]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.57.14
+[2022.03.10-18.57.14:107][474]LogWorld: Bringing up level for play took: 0.000415
+[2022.03.10-18.57.14:107][474]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.03.10-18.57.14:109][474]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps 0.222
+[2022.03.10-18.57.14:110][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.57.17:256][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.57.17:256][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.57.17:256][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.57.17:257][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.57.17:257][510]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.57.17:258][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.57.17:260][510]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.57.17:706][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.57.17:721][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.57.17:721][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.57.17:728][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.57.17:778][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.57.17:781][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.57.17:803][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.03.10-18.57.17:833][511]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.03.10-18.57.48:120][238]BlueprintLog: New page: Compile GameUI
+[2022.03.10-18.57.48:172][238]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.03.10-18.57.48:592][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.57.48:605][260]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUiDD19DE144FC4560B8061B887DF6A4194.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.57.48:620][260]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.57.48:620][260]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.57.54:968][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.03.10-18.57.55:200][622]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps9B75F3E6440D4B9BBEAA12A5E3541873.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps.umap'
+[2022.03.10-18.57.55:222][622]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps_BuiltDataB95E91BA464CA3491C692ABDCDAEDC2C.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps_BuiltData.uasset'
+[2022.03.10-18.57.55:242][622]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.10-18.57.55:242][622]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
+[2022.03.10-18.57.55:242][622]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
+[2022.03.10-18.57.56:651][703]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.57.56:668][703]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.57.56:668][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.57.56:668][703]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:57:56 pm)
+[2022.03.10-18.57.56:668][703]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.57.56:670][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002005s)
+[2022.03.10-18.57.56:671][703]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.57.56:671][703]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2022.03.10-18.57.56:671][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003016s)
+[2022.03.10-18.57.56:712][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.03.10-18.57.56:712][703]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.57.56:712][703]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.57.56:712][703]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.57.56:712][703]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.57.56:712][703]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.57.56:712][703]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.57.56:712][703]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.57.56:713][703]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.57.56:713][703]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.57.56:713][703]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.57.56:716][703]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.57.56:716][703]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.57.56:716][703]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.57.56:716][703]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.57.56:716][703]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.57.56:716][703]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.57.56:716][703]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.57.56:716][703]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.57.56:716][703]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.57.56:731][703]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.57.56:733][703]LogInit: FAudioDevice initialized.
+[2022.03.10-18.57.56:744][703]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.57.56:744][703]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.57.56
+[2022.03.10-18.57.56:745][703]LogWorld: Bringing up level for play took: 0.000474
+[2022.03.10-18.57.56:745][703]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.03.10-18.57.56:746][703]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps 0.859
+[2022.03.10-18.57.56:748][703]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.58.00:188][776]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.58.00:188][776]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.58.00:188][776]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.58.00:191][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.58.00:191][776]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.58.00:192][776]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.58.00:193][776]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.58.00:626][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.58.00:638][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.58.00:638][776]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.58.00:646][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.58.00:696][776]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.58.00:699][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.58.00:721][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.03.10-18.58.00:752][777]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.03.10-18.58.29:259][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.03.10-18.58.29:495][445]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps57AFD21F4EBF4C0D4E987E8D1C966768.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps.umap'
+[2022.03.10-18.58.29:518][445]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps_BuiltDataD8CC86BD4F8E21AFCB627885E928B3B5.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps_BuiltData.uasset'
+[2022.03.10-18.58.29:536][445]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.10-18.58.29:536][445]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
+[2022.03.10-18.58.29:536][445]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
+[2022.03.10-18.58.30:280][486]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.58.30:297][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.58.30:297][486]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.10-18.58.30:298][486]LogPlayLevel: [PlayLevel] Compiling GameUI before play...
+[2022.03.10-18.58.30:565][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.03.10-18.58.30:566][486]LogPlayLevel: PlayLevel: Blueprint regeneration took 269 ms (1 blueprints)
+[2022.03.10-18.58.30:566][486]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:58:30 pm)
+[2022.03.10-18.58.30:566][486]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.58.30:568][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002100s)
+[2022.03.10-18.58.30:569][486]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.58.30:569][486]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2022.03.10-18.58.30:569][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003133s)
+[2022.03.10-18.58.30:612][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.03.10-18.58.30:612][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.58.30:612][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.58.30:612][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.58.30:612][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.58.30:612][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.58.30:612][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.58.30:612][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.58.30:612][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.58.30:613][486]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.58.30:613][486]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.58.30:616][486]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.58.30:616][486]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.58.30:616][486]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.58.30:616][486]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.58.30:616][486]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.58.30:616][486]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.58.30:616][486]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.58.30:616][486]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.58.30:616][486]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.58.30:631][486]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.58.30:633][486]LogInit: FAudioDevice initialized.
+[2022.03.10-18.58.30:640][486]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.58.30:641][486]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.58.30
+[2022.03.10-18.58.30:641][486]LogWorld: Bringing up level for play took: 0.000436
+[2022.03.10-18.58.30:641][486]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.03.10-18.58.30:643][486]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps 0.755
+[2022.03.10-18.58.30:645][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.58.46:327][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.58.46:327][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.58.46:327][212]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.58.46:351][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.58.46:351][212]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.58.46:352][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.58.46:352][212]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.58.46:352][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.58.46:364][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.58.46:364][212]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.58.46:373][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.58.46:418][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.58.46:422][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.58.46:438][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.03.10-18.58.46:452][213]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.03.10-18.59.12:710][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-18.59.12:723][766]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi09EBCB1A490110EED87FBA9AC6ADF3CB.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-18.59.12:739][766]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-18.59.12:739][766]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-18.59.15:537][920]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.59.15:555][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.59.15:555][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.59.15:555][920]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:59:15 pm)
+[2022.03.10-18.59.15:555][920]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.59.15:557][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002043s)
+[2022.03.10-18.59.15:558][920]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.59.15:558][920]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2022.03.10-18.59.15:558][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003144s)
+[2022.03.10-18.59.15:602][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.03.10-18.59.15:604][920]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.59.15:604][920]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.59.15:604][920]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.59.15:604][920]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.59.15:604][920]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.59.15:604][920]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.59.15:604][920]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.59.15:604][920]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.59.15:604][920]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.59.15:604][920]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.59.15:607][920]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.59.15:607][920]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.59.15:607][920]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.59.15:607][920]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.59.15:607][920]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.59.15:607][920]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.59.15:607][920]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.59.15:607][920]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.59.15:607][920]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.59.15:623][920]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.59.15:625][920]LogInit: FAudioDevice initialized.
+[2022.03.10-18.59.15:631][920]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.59.15:632][920]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.59.15
+[2022.03.10-18.59.15:632][920]LogWorld: Bringing up level for play took: 0.000640
+[2022.03.10-18.59.15:632][920]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.03.10-18.59.15:634][920]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps -0.254
+[2022.03.10-18.59.15:635][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.59.33:358][685]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.59.33:358][685]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.59.33:358][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.59.33:383][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.59.33:383][685]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.59.33:384][685]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.59.33:384][685]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.59.33:384][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.59.33:394][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.59.33:395][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.59.33:404][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.59.33:450][685]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.59.33:454][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.59.33:471][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.03.10-18.59.33:488][686]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.03.10-18.59.37:511][927]LogTemp: Repeating last play command: Simulate
+[2022.03.10-18.59.37:526][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.59.37:526][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-18.59.37:526][927]PIE: New page: SIE session: demomaps (10-Mar-2022, 6:59:37 pm)
+[2022.03.10-18.59.37:526][927]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.59.37:528][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002075s)
+[2022.03.10-18.59.37:529][927]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-18.59.37:529][927]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2022.03.10-18.59.37:529][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003087s)
+[2022.03.10-18.59.37:571][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.03.10-18.59.37:572][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-18.59.37:573][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-18.59.37:573][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-18.59.37:573][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-18.59.37:573][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-18.59.37:573][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-18.59.37:573][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-18.59.37:573][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-18.59.37:573][927]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-18.59.37:573][927]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-18.59.37:576][927]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-18.59.37:576][927]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-18.59.37:576][927]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-18.59.37:576][927]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-18.59.37:576][927]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-18.59.37:576][927]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-18.59.37:576][927]LogAudioMixer: Display: Channel Order:
+[2022.03.10-18.59.37:576][927]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-18.59.37:576][927]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-18.59.37:590][927]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-18.59.37:592][927]LogInit: FAudioDevice initialized.
+[2022.03.10-18.59.37:601][927]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-18.59.37:602][927]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-18.59.37
+[2022.03.10-18.59.37:602][927]LogWorld: Bringing up level for play took: 0.000400
+[2022.03.10-18.59.37:602][927]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.03.10-18.59.37:605][927]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps -0.283
+[2022.03.10-18.59.37:606][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.59.43:601][216]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.59.43:601][216]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.59.43:601][216]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.59.43:612][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.59.43:612][216]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-18.59.43:613][216]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.59.43:613][216]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-18.59.43:613][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.59.43:623][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-18.59.43:623][216]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-18.59.43:630][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-18.59.43:671][216]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-18.59.43:674][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-18.59.43:683][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.03.10-18.59.43:701][217]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.03.10-19.00.07:969][604]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.10-19.01.26:413][195]BlueprintLog: New page: Compile GameUI
+[2022.03.10-19.01.26:416][195]LogBlueprint: Warning: [Compiler GameUI] Get Actor Of Class  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.03.10-19.01.26:417][195]LogBlueprint: Error: [Compiler GameUI] This blueprint (self) is not a particalsystem_C, therefore ' Target ' must have a connection.
+[2022.03.10-19.01.26:417][195]LogBlueprint: Error: [Compiler GameUI] Variable node  Get ParticleHeight  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.03.10-19.01.26:463][195]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.03.10-19.01.26:983][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-19.01.26:997][221]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUi772CA4D2431FC6DC0BEAEC9AB287FC51.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-19.01.27:012][221]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-19.01.27:012][221]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-19.01.50:706][614]BlueprintLog: New page: Compile GameUI
+[2022.03.10-19.01.50:756][614]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.03.10-19.03.25:460][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-19.03.25:476][289]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUiCBABCC4A4D109E33BE6E85BCA45BAC60.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-19.03.25:493][289]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-19.03.25:493][289]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-19.03.27:685][421]LogTemp: Repeating last play command: Simulate
+[2022.03.10-19.03.27:702][421]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-19.03.27:702][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.10-19.03.27:702][421]PIE: New page: SIE session: demomaps (10-Mar-2022, 7:03:27 pm)
+[2022.03.10-19.03.27:702][421]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-19.03.27:704][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002014s)
+[2022.03.10-19.03.27:705][421]LogAIModule: Creating AISystem for world demomaps
+[2022.03.10-19.03.27:705][421]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2022.03.10-19.03.27:705][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/demomaps.demomaps to /Game/maps/UEDPIE_0_demomaps.demomaps (0.003019s)
+[2022.03.10-19.03.27:749][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.03.10-19.03.27:750][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-19.03.27:750][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-19.03.27:750][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-19.03.27:750][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-19.03.27:750][421]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-19.03.27:750][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-19.03.27:750][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-19.03.27:750][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-19.03.27:751][421]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.10-19.03.27:751][421]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-19.03.27:754][421]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.03.10-19.03.27:754][421]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2022.03.10-19.03.27:754][421]LogAudioMixer: Display: Is Default: Yes
+[2022.03.10-19.03.27:754][421]LogAudioMixer: Display: Sample Rate: 48000
+[2022.03.10-19.03.27:754][421]LogAudioMixer: Display: Channel Count Used: 2
+[2022.03.10-19.03.27:754][421]LogAudioMixer: Display: Device Channel Count: 2
+[2022.03.10-19.03.27:754][421]LogAudioMixer: Display: Channel Order:
+[2022.03.10-19.03.27:754][421]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-19.03.27:754][421]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-19.03.27:770][421]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.10-19.03.27:772][421]LogInit: FAudioDevice initialized.
+[2022.03.10-19.03.27:779][421]LogLoad: Game class is 'GameModeBase'
+[2022.03.10-19.03.27:780][421]LogWorld: Bringing World /Game/maps/UEDPIE_0_demomaps.demomaps up for play (max tick rate 60) at 2022.03.10-19.03.27
+[2022.03.10-19.03.27:780][421]LogWorld: Bringing up level for play took: 0.000423
+[2022.03.10-19.03.27:780][421]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.03.10-19.03.27:782][421]PIE: Play in editor start time for /Game/maps/UEDPIE_0_demomaps -0.106
+[2022.03.10-19.03.27:783][421]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-19.04.05:969][602]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-19.04.05:969][602]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-19.04.05:969][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-19.04.06:006][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-19.04.06:006][602]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_demomaps
+[2022.03.10-19.04.06:007][602]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-19.04.06:007][602]LogWorld: UWorld::CleanupWorld for demomaps, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-19.04.06:008][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-19.04.06:019][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.10-19.04.06:020][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/demomaps.demomaps:PersistentLevel' has LevelScriptBlueprint '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps' with GeneratedClass '/Game/maps/demomaps.demomaps_C' with ClassGeneratedBy '/Game/maps/demomaps.demomaps:PersistentLevel.demomaps'
+[2022.03.10-19.04.06:030][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-19.04.06:082][602]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.10-19.04.06:085][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-19.04.06:108][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.03.10-19.04.06:127][603]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.03.10-19.04.07:318][673]LogEditorViewport: Clicking on Actor (LMB): particalsystem_C (particalsystem2)
+[2022.03.10-19.04.17:363][266]BlueprintLog: New page: Compile GameUI
+[2022.03.10-19.04.17:410][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.03.10-19.04.18:084][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GameUi" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset" SILENT=true
+[2022.03.10-19.04.18:099][304]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/GameUiD477BE6F4D0AC783242E22810455C18A.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/Widget/GameUi.uasset'
+[2022.03.10-19.04.18:114][304]AssetCheck: New page: Asset Save: GameUI
+[2022.03.10-19.04.18:114][304]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/GameUi.GameUI
+[2022.03.10-19.04.20:112][422]BlueprintLog: New page: Compile particalsystem
+[2022.03.10-19.04.20:378][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.03.10-19.04.20:714][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/actor/particalsystem" FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/actor/particalsystem.uasset" SILENT=true
+[2022.03.10-19.04.20:724][440]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/particalsystemFD455A244DEBFE1108D2A38F490FA4AE.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/actor/particalsystem.uasset'
+[2022.03.10-19.04.20:738][440]AssetCheck: New page: Asset Save: particalsystem
+[2022.03.10-19.04.20:738][440]LogContentValidation: Display: Validating Blueprint /Game/actor/particalsystem.particalsystem
+[2022.03.10-19.04.22:344][531]BlueprintLog: New page: Compile partical_blueprint
+[2022.03.10-19.04.22:610][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.03.10-19.04.22:879][541]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/partical_blueprint4F84465B4AC6F28CD3C94EAA3A9570B3.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/actor/partical_blueprint.uasset'
+[2022.03.10-19.04.22:894][541]AssetCheck: New page: Asset Save: partical_blueprint
+[2022.03.10-19.04.22:894][541]LogContentValidation: Display: Validating Blueprint /Game/actor/partical_blueprint.partical_blueprint
+[2022.03.10-19.04.24:678][644]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.03.10-19.04.24:907][644]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps17E2B89D49B3102EB7F3C69CBFE5C4A4.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps.umap'
+[2022.03.10-19.04.24:931][644]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps_BuiltData45841A3A48F1CE22B8177F9967B9D2EA.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps_BuiltData.uasset'
+[2022.03.10-19.04.24:949][644]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.10-19.04.24:949][644]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
+[2022.03.10-19.04.24:949][644]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
+[2022.03.10-19.04.25:387][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.03.10-19.04.25:614][667]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps018F2E3D45801ED6F20F388898B13E1D.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps.umap'
+[2022.03.10-19.04.25:637][667]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Saved/demomaps_BuiltDataDF1D8D32430C7082EE995582C92AFEAD.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/demoproject/gamedemoproject/Content/maps/demomaps_BuiltData.uasset'
+[2022.03.10-19.04.25:658][667]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.10-19.04.25:658][667]LogContentValidation: Display: Validating World /Game/maps/demomaps.demomaps
+[2022.03.10-19.04.25:658][667]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/demomaps_BuiltData.demomaps_BuiltData
